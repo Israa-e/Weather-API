@@ -1,3 +1,21 @@
+## 🗺️ Roadmap.sh Project
+
+This project was built as part of the **Weather API** challenge from [roadmap.sh](https://roadmap.sh/projects/weather-api-wrapper-service).
+
+🔗 **Project:** https://roadmap.sh/projects/weather-api-wrapper-service
+
+The challenge focuses on building a weather API that fetches data from a third-party weather service and helps practice:
+
+* 🌐 Working with third-party APIs
+* ⚡ Caching with Redis
+* 🔐 Environment variables
+* 🛡️ Error handling
+* 🚦 Rate limiting
+* 📡 HTTP requests with Axios
+* 🐳 Containerization with Docker
+
+This implementation uses **Visual Crossing** as the weather provider and **Redis** for caching weather responses for 12 hours.
+
 # 🌤️ Weather API
 
 A simple and beginner-friendly **Weather API** built with **TypeScript, Node.js, Express, Redis, Docker, and the Visual Crossing Weather API**.
